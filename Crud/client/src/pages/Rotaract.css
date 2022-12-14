@@ -1,0 +1,11 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    vertical-align: top;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    margin: 0px 50px 0px 50px;     
+}
